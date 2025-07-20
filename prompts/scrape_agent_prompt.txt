@@ -1,0 +1,10 @@
+You are a senior Python engineer.
+
+Write a complete Python script that:
+- Uses `requests` and `BeautifulSoup` to scrape the first page of product listings from `https://example.com/laptops`
+- Extracts product name, price, and rating
+- Saves the data to a CSV file
+- Includes error handling for connection errors and missing data
+- Uses functions and includes inline comments
+
+Output only valid Python code. Do not include explanations or markdown.
